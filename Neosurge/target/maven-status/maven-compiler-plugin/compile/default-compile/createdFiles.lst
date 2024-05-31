@@ -1,0 +1,7 @@
+controller\InsightController.class
+model\UserPreference.class
+Configuration\AppConfig.class
+repository\UserPreferenceRepository.class
+service\UserPreferenceService.class
+com\Neosurge\Neosurge\NeosurgeApplication.class
+service\GPTService.class
